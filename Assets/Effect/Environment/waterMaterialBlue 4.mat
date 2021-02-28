@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: waterMaterialBlue 3
+  m_Name: waterMaterialBlue 4
   m_Shader: {fileID: -6465566751694194690, guid: 15067a40dbc32844aaaaaa41ddfafeb6, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -27,14 +27,14 @@ Material:
     - Vector1_81591654: 0
     - Vector1_98395EAC: 3.6
     - Vector1_98DEA761: 2
-    - Vector1_D251F43E: 159.59
+    - Vector1_D251F43E: 50
     - Vector1_D2A40502: 0.5
     - Vector1_DC1D4703: 50
     - Vector1_EB43D27B: 0
     m_Colors:
-    - Color_4C4CDE1F: {r: 0.32314324, g: 0.1441285, b: 0.9386859, a: 1}
+    - Color_4C4CDE1F: {r: 0.02264148, g: 0.46270895, b: 1, a: 1}
     - Color_52157B8E: {r: 0.13679248, g: 0.69957536, b: 1, a: 1}
     - Color_63F3EA14: {r: 1, g: 1, b: 1, a: 1}
-    - Color_721BBB6B: {r: 0.6044913, g: 0.4161801, b: 0.9716981, a: 1}
+    - Color_721BBB6B: {r: 0.14901961, g: 0.6313726, b: 0.8901961, a: 1}
     - Vector2_A4F46A3C: {r: 0.1, g: -0.1, b: 0, a: 0}
   m_BuildTextureStacks: []
